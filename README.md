@@ -1,7 +1,3 @@
-# ai-training-portfolio
-AI training portfolio: prompt engineering, RLHF evaluation, and case studies
-# AI Training Portfolio (GitHub Repository)
-
 ## Repository Name
 
 ai-training-portfolio
